@@ -18,12 +18,12 @@ pip3 install flask
 
 Clone the repository to your target board
 ```
-git clone 
+git clone https://github.com/SolomonGithu/inventory-tracking-with-Edge-Impulse.git
 ```
 
 Navigate to the repository
 ```
-cd 
+cd inventory-tracking-with-Edge-Impulse
 ```
 Start the application by running the following command while in the root directory of this repo:
 ```
