@@ -1,6 +1,6 @@
 ## Monitoring inventory in retail with Edge Impulse and Renesas RZ/V2L :department_store:
 
-![Cover Image]()
+![Cover Image](media/cover_image.png)
 
 ### Quick start :computer:
 
