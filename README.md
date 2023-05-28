@@ -4,7 +4,7 @@
 
 ### Quick start :computer:
 
-You can find the public Edge Impulse project here [Inventory tracking in retail with Renesas DRP-AI](https://studio.edgeimpulse.com/public/165074/latest)
+You can find the public Edge Impulse project here [Inventory tracking in retail with Renesas DRP-AI](https://studio.edgeimpulse.com/public/165074/latest). Read up on the project's documentation on [Edge Impulse's page](https://www.edgeimpulse.com/blog/never-be-in-short-supply-with-ai) to help you get started on your own creation.
 
 Ensure you have a recent version of Python then install the Edge-Impulse Linux Python SDK : 
 ```
